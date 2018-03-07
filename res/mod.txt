@@ -1,5 +1,5 @@
-internalName: yourmodname
-		name: You Mod Name
+internalName: My're le first mode
+		name: My're le first mode
 		version: 1.0
-		description: Your mod description
+		description: It's a secret :^)
 		

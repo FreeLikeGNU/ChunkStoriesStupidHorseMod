@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/yourmodname.iml" filepath="$PROJECT_DIR$/.idea/modules/yourmodname.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/plugin/yourmodname-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/plugin/yourmodname-plugin.iml" group="yourmodname-plugin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/plugin/yourmodname-plugin_main.iml" filepath="$PROJECT_DIR$/.idea/modules/plugin/yourmodname-plugin_main.iml" group="yourmodname-plugin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/plugin/yourmodname-plugin_test.iml" filepath="$PROJECT_DIR$/.idea/modules/plugin/yourmodname-plugin_test.iml" group="yourmodname-plugin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/yourmodname_main.iml" filepath="$PROJECT_DIR$/.idea/modules/yourmodname_main.iml" group="yourmodname" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/yourmodname_test.iml" filepath="$PROJECT_DIR$/.idea/modules/yourmodname_test.iml" group="yourmodname" />
+    </modules>
+  </component>
+</project>
